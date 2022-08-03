@@ -1,0 +1,25 @@
+.header{
+    display:flex;
+    background-color: blue;
+    flex-direction: row;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+
+}
+
+.heading{
+    display:flex;
+    background-color: blue;
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+.button{
+    background-color: aqua;
+}
